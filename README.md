@@ -1,2 +1,2 @@
 # bookbot
-My first pet project
+BookBot is my first project!
